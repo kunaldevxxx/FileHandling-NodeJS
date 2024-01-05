@@ -5,7 +5,7 @@ This project demonstrates basic file handling in a Node.js environment. It cover
 
 ## Getting Started
 
-1. **Clone the repository:**
+1. ## Clone the repository:
 
    ```bash
    git clone https://github.com/your-username/nodejs-file-handling.git
